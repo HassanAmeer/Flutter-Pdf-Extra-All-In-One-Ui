@@ -22,5 +22,5 @@ easy to understand all codes every One Can Study These File Codes
 
 
 # Screenshots Demo
-<img src='pdf app ui demo.png.png'>
+<img src='pdf app ui demo.png'>
 
